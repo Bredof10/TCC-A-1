@@ -207,7 +207,7 @@ export default function Home() {
    <div className='div1'> 
         <h1 className='sn'> SNEAKERS -WORLD-</h1>
          
-          <p className='div'>Área Restrita</p>
+          <p className='div'>Rebook</p>
 </div>
 
 
